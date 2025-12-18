@@ -96,3 +96,4 @@
 |**হামদ (Hamd)**|আল্লাহর প্রশংসা করা (to praise)।|
 |**ইস্তিগফার (Istighfar)**|আল্লাহর কাছে ক্ষমা প্রার্থনা করা (to seek forgiveness)।|
 |**তাওয়াব (Tawwab)**|তিনি, যিনি বারবার তওবা বা অনুশোচনা কবুল করেন (ever Accepting of repentance)।|
+
